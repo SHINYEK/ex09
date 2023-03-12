@@ -1,0 +1,78 @@
+*{
+  font-family: 'Gmarket';
+}
+
+.App{
+  text-align: center;
+  width: 80%;
+  margin: 0px auto;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+
+.footer{
+  border-top: solid 3px gray;
+  margin-top: 100px;
+}
+
+.menu{
+  padding: 20px 0px;
+  text-align: left;
+  border-bottom: solid 2px gray;
+}
+
+.menu a{
+  padding-left: 20px;
+  color: gray;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.menu a:hover{
+  color: pink;
+}
+
+select{
+  width: 100px;
+  padding: 2px;
+  text-align: center;
+
+  margin-right: 4px;
+
+}
+
+button{
+
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 3px 10px;
+  border-style: none;
+  font-weight: bold;
+}
+
+table{
+
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0px auto;
+}
+
+tr,td{
+  border-bottom: solid gray 1px;
+  padding: 10px
+}
+
+thead{
+  background-color: rgb(244, 232, 255);
+  font-weight: bold;
+}
+
+form{
+  margin-bottom: 20px;
+}
